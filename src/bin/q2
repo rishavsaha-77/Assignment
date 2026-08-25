@@ -1,0 +1,33 @@
+use serde::Deserialize;
+use std::collections::HashSet;
+use std::fs;
+
+#[derive(Debug, Deserialize)]
+struct Product {
+    product_id: String,
+}
+
+fn find_duplicate_ids(ids: &[String]) -> Vec<String> {
+    let mut seen = HashSet::new();
+    let mut duplicates = HashSet::new();
+
+    for id in ids {
+        if !seen.insert(id) {
+            duplicates.insert(id.clone());
+        }
+    }
+
+    duplicates.into_iter().collect()
+}
+
+fn main() {
+    let file_path = "scraped_products_200 (1).json";
+    let data = fs::read_to_string(file_path).expect("Failed to read JSON file");
+    let products: Vec<Product> = serde_json::from_str(&data).expect("Failed to parse JSON");
+
+    let ids: Vec<String> = products.into_iter().map(|p| p.product_id).collect();
+    let dupes = find_duplicate_ids(&ids);
+
+    println!("Found {} duplicate product IDs:", dupes.len());
+    println!("{:#?}", dupes);
+}

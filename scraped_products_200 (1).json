@@ -1,0 +1,1402 @@
+[
+  {
+    "product_id": "P021",
+    "name": "Polaroid Sunglasses",
+    "price": 1200,
+    "category": "Sunglasses",
+    "rating": 4.4
+  },
+  {
+    "product_id": "P109",
+    "name": "Samsung Galaxy Buds",
+    "price": 39700,
+    "category": "Electronics",
+    "rating": 4.4
+  },
+  {
+    "product_id": "P066",
+    "name": "Wrangler Slim Jeans",
+    "price": 4400,
+    "category": "Jeans",
+    "rating": 3.0
+  },
+  {
+    "product_id": "P108",
+    "name": "Wrangler Slim Jeans",
+    "price": 3100,
+    "category": "Jeans",
+    "rating": 3.9
+  },
+  {
+    "product_id": "P105",
+    "name": "Puma Duffel Bag",
+    "price": 1200,
+    "category": "Bags",
+    "rating": 4.5
+  },
+  {
+    "product_id": "P040",
+    "name": "Adidas Ultraboost",
+    "price": 4200,
+    "category": "Shoes",
+    "rating": 3.8
+  },
+  {
+    "product_id": "P130",
+    "name": "LEE REGULAR JEANS",
+    "price": 5200,
+    "category": "Jeans",
+    "rating": 3.3
+  },
+  {
+    "product_id": "P177",
+    "name": "Levis Cotton T-Shirt",
+    "price": 600,
+    "category": "T-Shirts",
+    "rating": 3.1
+  },
+  {
+    "product_id": "P123",
+    "name": "Polaroid Sunglasses",
+    "price": 17500,
+    "category": "Sunglasses",
+    "rating": 4.4
+  },
+  {
+    "product_id": "P023",
+    "name": "Puma Running Shoes",
+    "price": 14700,
+    "category": "Shoes",
+    "rating": 4.4
+  },
+  {
+    "product_id": "P152",
+    "name": "Oakley Holbrook",
+    "price": 5100,
+    "category": "Sunglasses",
+    "rating": 3.7
+  },
+  {
+    "product_id": "P114",
+    "name": "  Oakley Holbrook  ",
+    "price": 17500,
+    "category": "Sunglasses",
+    "rating": 3.7
+  },
+  {
+    "product_id": "P035",
+    "name": "  Puma Running Shoes  ",
+    "price": 5500,
+    "category": "Shoes",
+    "rating": 3.6
+  },
+  {
+    "product_id": "P007",
+    "name": "Titan Watch",
+    "price": 28600,
+    "category": "Watches",
+    "rating": 3.2
+  },
+  {
+    "product_id": "P133",
+    "name": "OAKLEY HOLBROOK",
+    "price": 25000,
+    "category": "Sunglasses",
+    "rating": 4.7
+  },
+  {
+    "product_id": "P118",
+    "name": "Nike Sports Bag",
+    "price": 11600,
+    "category": "Bags",
+    "rating": 4.9
+  },
+  {
+    "product_id": "P003",
+    "name": "Nike Air Max",
+    "price": 10200,
+    "category": "Shoes",
+    "rating": 3.1
+  },
+  {
+    "product_id": "P033",
+    "name": "Timex Classic",
+    "price": 18500,
+    "category": "Watches",
+    "rating": 3.0
+  },
+  {
+    "product_id": "P041",
+    "name": "JBL Tune Headphones",
+    "price": 24100,
+    "category": "Electronics",
+    "rating": 4.6
+  },
+  {
+    "product_id": "P166",
+    "name": "Oakley Holbrook",
+    "price": 10600,
+    "category": "Sunglasses",
+    "rating": 3.9
+  },
+  {
+    "product_id": "P164",
+    "name": "NIKE SPORTS BAG",
+    "price": 10200,
+    "category": "Bags",
+    "rating": 3.6
+  },
+  {
+    "product_id": "P019",
+    "name": "Nike Air Max",
+    "price": 4500,
+    "category": "Shoes",
+    "rating": 4.6
+  },
+  {
+    "product_id": "P114",
+    "name": "  Oakley Holbrook  ",
+    "price": 17500,
+    "category": "Sunglasses",
+    "rating": 3.7
+  },
+  {
+    "product_id": "P012",
+    "name": "Levis Cotton T-Shirt",
+    "price": 2000,
+    "category": "T-Shirts",
+    "rating": 3.3
+  },
+  {
+    "product_id": "P027",
+    "name": "Titan Watch",
+    "price": 19700,
+    "category": "Watches",
+    "rating": 4.8
+  },
+  {
+    "product_id": "P044",
+    "name": "Adidas Ultraboost",
+    "price": 5800,
+    "category": "Shoes",
+    "rating": 4.9
+  },
+  {
+    "product_id": "P056",
+    "name": "Boat Wireless Earbuds",
+    "price": 28500,
+    "category": "Electronics",
+    "rating": 3.0
+  },
+  {
+    "product_id": "P116",
+    "name": "Puma Duffel Bag",
+    "price": 10300,
+    "category": "Bags",
+    "rating": 4.0
+  },
+  {
+    "product_id": "P088",
+    "name": "  Timex Classic  ",
+    "price": 13900,
+    "category": "Watches",
+    "rating": 4.8
+  },
+  {
+    "product_id": "P111",
+    "name": "Timex Classic",
+    "price": 5000,
+    "category": "Watches",
+    "rating": 4.2
+  },
+  {
+    "product_id": "P026",
+    "name": "Skybags Casual Backpack",
+    "price": 7700,
+    "category": "Bags",
+    "rating": 4.8
+  },
+  {
+    "product_id": "P017",
+    "name": "Wrangler Slim Jeans",
+    "price": 6500,
+    "category": "Jeans",
+    "rating": 4.2
+  },
+  {
+    "product_id": "P085",
+    "name": "American Tourister Backpack",
+    "price": 8300,
+    "category": "Bags",
+    "rating": 3.4
+  },
+  {
+    "product_id": "P067",
+    "name": "Adidas Logo Tee",
+    "price": 2000,
+    "category": "T-Shirts",
+    "rating": 3.5
+  },
+  {
+    "product_id": "P089",
+    "name": "Reebok Classic",
+    "price": 9200,
+    "category": "Shoes",
+    "rating": 5.0
+  },
+  {
+    "product_id": "P001",
+    "name": "  Levis Cotton T-Shirt  ",
+    "price": 2200,
+    "category": "T-Shirts",
+    "rating": 3.5
+  },
+  {
+    "product_id": "P010",
+    "name": "Apple AirPods Pro",
+    "price": 20900,
+    "category": "Electronics",
+    "rating": 3.6
+  },
+  {
+    "product_id": "P121",
+    "name": "Wildcraft Travel Bag",
+    "price": 9900,
+    "category": "Bags",
+    "rating": 4.8
+  },
+  {
+    "product_id": "P093",
+    "name": "NIKE SPORTS T-SHIRT",
+    "price": 2300,
+    "category": "T-Shirts",
+    "rating": 3.5
+  },
+  {
+    "product_id": "P081",
+    "name": "Vogue Eyewear",
+    "price": 13100,
+    "category": "Sunglasses",
+    "rating": 4.6
+  },
+  {
+    "product_id": "P038",
+    "name": "Puma Essential Tee",
+    "price": 800,
+    "category": "T-Shirts",
+    "rating": 4.3
+  },
+  {
+    "product_id": "P153",
+    "name": "Puma Essential Tee",
+    "price": 4000,
+    "category": "T-Shirts",
+    "rating": 3.1
+  },
+  {
+    "product_id": "P134",
+    "name": "NIKE AIR MAX",
+    "price": 10500,
+    "category": "Shoes",
+    "rating": 4.4
+  },
+  {
+    "product_id": "P154",
+    "name": "Puma Running Shoes",
+    "price": 12300,
+    "category": "Shoes",
+    "rating": 3.8
+  },
+  {
+    "product_id": "P104",
+    "name": "Jack & Jones Denim",
+    "price": 4200,
+    "category": "Jeans",
+    "rating": 3.6
+  },
+  {
+    "product_id": "P137",
+    "name": "Nike Sports Bag",
+    "price": 4800,
+    "category": "Bags",
+    "rating": 4.7
+  },
+  {
+    "product_id": "P150",
+    "name": "Skybags Casual Backpack",
+    "price": 4500,
+    "category": "Bags",
+    "rating": 3.4
+  },
+  {
+    "product_id": "P016",
+    "name": "Puma Essential Tee",
+    "price": 3400,
+    "category": "T-Shirts",
+    "rating": 3.3
+  },
+  {
+    "product_id": "P022",
+    "name": "Asics Gel Runner",
+    "price": 12300,
+    "category": "Shoes",
+    "rating": 4.3
+  },
+  {
+    "product_id": "P162",
+    "name": "Jack & Jones Denim",
+    "price": 5600,
+    "category": "Jeans",
+    "rating": 4.0
+  },
+  {
+    "product_id": "P002",
+    "name": "Levis 501 Jeans",
+    "price": 2300,
+    "category": "Jeans",
+    "rating": 4.2
+  },
+  {
+    "product_id": "P095",
+    "name": "NIKE SPORTS T-SHIRT",
+    "price": 3100,
+    "category": "T-Shirts",
+    "rating": 3.7
+  },
+  {
+    "product_id": "P041",
+    "name": "JBL Tune Headphones",
+    "price": 24100,
+    "category": "Electronics",
+    "rating": 4.6
+  },
+  {
+    "product_id": "P110",
+    "name": "Skybags Casual Backpack",
+    "price": 1300,
+    "category": "Bags",
+    "rating": 4.9
+  },
+  {
+    "product_id": "P178",
+    "name": "American Tourister Backpack",
+    "price": 2800,
+    "category": "Bags",
+    "rating": 3.5
+  },
+  {
+    "product_id": "P164",
+    "name": "NIKE SPORTS BAG",
+    "price": 10200,
+    "category": "Bags",
+    "rating": 3.6
+  },
+  {
+    "product_id": "P097",
+    "name": "NIKE SPORTS BAG",
+    "price": 10700,
+    "category": "Bags",
+    "rating": 4.2
+  },
+  {
+    "product_id": "P115",
+    "name": "Puma Duffel Bag",
+    "price": 5600,
+    "category": "Bags",
+    "rating": 4.3
+  },
+  {
+    "product_id": "P117",
+    "name": "Adidas Logo Tee",
+    "price": 3500,
+    "category": "T-Shirts",
+    "rating": 3.9
+  },
+  {
+    "product_id": "P055",
+    "name": "Adidas Ultraboost",
+    "price": 13100,
+    "category": "Shoes",
+    "rating": 4.1
+  },
+  {
+    "product_id": "P144",
+    "name": "Wrangler Slim Jeans",
+    "price": 2200,
+    "category": "Jeans",
+    "rating": 3.1
+  },
+  {
+    "product_id": "P062",
+    "name": "Puma Essential Tee",
+    "price": 1400,
+    "category": "T-Shirts",
+    "rating": 4.1
+  },
+  {
+    "product_id": "P103",
+    "name": "Fastrack Sunglasses",
+    "price": 7600,
+    "category": "Sunglasses",
+    "rating": 3.8
+  },
+  {
+    "product_id": "P077",
+    "name": "Levis Cotton T-Shirt",
+    "price": 2400,
+    "category": "T-Shirts",
+    "rating": 4.3
+  },
+  {
+    "product_id": "P065",
+    "name": "Boat Wireless Earbuds",
+    "price": 33200,
+    "category": "Electronics",
+    "rating": 4.5
+  },
+  {
+    "product_id": "P008",
+    "name": "Ray-Ban Aviator",
+    "price": 16800,
+    "category": "Sunglasses",
+    "rating": 4.8
+  },
+  {
+    "product_id": "P046",
+    "name": "Timex Classic",
+    "price": 4100,
+    "category": "Watches",
+    "rating": 4.2
+  },
+  {
+    "product_id": "P122",
+    "name": "Casio G-Shock",
+    "price": 13500,
+    "category": "Watches",
+    "rating": 4.4
+  },
+  {
+    "product_id": "P112",
+    "name": "Skybags Casual Backpack",
+    "price": 11800,
+    "category": "Bags",
+    "rating": 4.4
+  },
+  {
+    "product_id": "P047",
+    "name": "CASIO G-SHOCK",
+    "price": 25600,
+    "category": "Watches",
+    "rating": 4.0
+  },
+  {
+    "product_id": "P174",
+    "name": "Roadster Casual T-Shirt",
+    "price": 3600,
+    "category": "T-Shirts",
+    "rating": 4.7
+  },
+  {
+    "product_id": "P073",
+    "name": "Apple AirPods Pro",
+    "price": 38800,
+    "category": "Electronics",
+    "rating": 4.6
+  },
+  {
+    "product_id": "P173",
+    "name": "Boat Wireless Earbuds",
+    "price": 45100,
+    "category": "Electronics",
+    "rating": 3.7
+  },
+  {
+    "product_id": "P077",
+    "name": "Levis Cotton T-Shirt",
+    "price": 2400,
+    "category": "T-Shirts",
+    "rating": 4.3
+  },
+  {
+    "product_id": "P086",
+    "name": "Puma Essential Tee",
+    "price": 500,
+    "category": "T-Shirts",
+    "rating": 4.8
+  },
+  {
+    "product_id": "P125",
+    "name": "Roadster Casual T-Shirt",
+    "price": 2700,
+    "category": "T-Shirts",
+    "rating": 3.9
+  },
+  {
+    "product_id": "P168",
+    "name": "  Puma Duffel Bag  ",
+    "price": 10500,
+    "category": "Bags",
+    "rating": 3.9
+  },
+  {
+    "product_id": "P100",
+    "name": "Jack & Jones Denim",
+    "price": 1900,
+    "category": "Jeans",
+    "rating": 3.8
+  },
+  {
+    "product_id": "P063",
+    "name": "Wildcraft Travel Bag",
+    "price": 2600,
+    "category": "Bags",
+    "rating": 3.1
+  },
+  {
+    "product_id": "P019",
+    "name": "Nike Air Max",
+    "price": 4500,
+    "category": "Shoes",
+    "rating": 4.6
+  },
+  {
+    "product_id": "P101",
+    "name": "Puma Essential Tee",
+    "price": 1300,
+    "category": "T-Shirts",
+    "rating": 5.0
+  },
+  {
+    "product_id": "P138",
+    "name": "OAKLEY HOLBROOK",
+    "price": 19900,
+    "category": "Sunglasses",
+    "rating": 3.2
+  },
+  {
+    "product_id": "P142",
+    "name": "  Puma Essential Tee  ",
+    "price": 1900,
+    "category": "T-Shirts",
+    "rating": 4.8
+  },
+  {
+    "product_id": "P054",
+    "name": "Nike Air Max",
+    "price": 4100,
+    "category": "Shoes",
+    "rating": 4.9
+  },
+  {
+    "product_id": "P146",
+    "name": "Oakley Holbrook",
+    "price": 13800,
+    "category": "Sunglasses",
+    "rating": 4.1
+  },
+  {
+    "product_id": "P118",
+    "name": "Nike Sports Bag",
+    "price": 11600,
+    "category": "Bags",
+    "rating": 4.9
+  },
+  {
+    "product_id": "P119",
+    "name": "JBL Tune Headphones",
+    "price": 32700,
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "product_id": "P050",
+    "name": "New Balance 574",
+    "price": 10400,
+    "category": "Shoes",
+    "rating": 3.2
+  },
+  {
+    "product_id": "P089",
+    "name": "Reebok Classic",
+    "price": 9200,
+    "category": "Shoes",
+    "rating": 5.0
+  },
+  {
+    "product_id": "P069",
+    "name": "Puma Duffel Bag",
+    "price": 3900,
+    "category": "Bags",
+    "rating": 3.4
+  },
+  {
+    "product_id": "P031",
+    "name": "Nike Sports Bag",
+    "price": 7900,
+    "category": "Bags",
+    "rating": 4.5
+  },
+  {
+    "product_id": "P174",
+    "name": "Roadster Casual T-Shirt",
+    "price": 3600,
+    "category": "T-Shirts",
+    "rating": 4.7
+  },
+  {
+    "product_id": "P177",
+    "name": "Levis Cotton T-Shirt",
+    "price": 600,
+    "category": "T-Shirts",
+    "rating": 3.1
+  },
+  {
+    "product_id": "P064",
+    "name": "Apple AirPods Pro",
+    "price": 14200,
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "product_id": "P132",
+    "name": "PUMA DUFFEL BAG",
+    "price": 4600,
+    "category": "Bags",
+    "rating": 3.9
+  },
+  {
+    "product_id": "P005",
+    "name": "Adidas Ultraboost",
+    "price": 4400,
+    "category": "Shoes",
+    "rating": 3.4
+  },
+  {
+    "product_id": "P120",
+    "name": "Apple AirPods Pro",
+    "price": 26400,
+    "category": "Electronics",
+    "rating": 3.4
+  },
+  {
+    "product_id": "P018",
+    "name": "Timex Classic",
+    "price": 8200,
+    "category": "Watches",
+    "rating": 4.0
+  },
+  {
+    "product_id": "P015",
+    "name": "Adidas Ultraboost",
+    "price": 11600,
+    "category": "Shoes",
+    "rating": 3.6
+  },
+  {
+    "product_id": "P053",
+    "name": "  American Tourister Backpack  ",
+    "price": 8900,
+    "category": "Bags",
+    "rating": 5.0
+  },
+  {
+    "product_id": "P155",
+    "name": "Casio G-Shock",
+    "price": 22300,
+    "category": "Watches",
+    "rating": 3.1
+  },
+  {
+    "product_id": "P039",
+    "name": "  Levis Cotton T-Shirt  ",
+    "price": 2600,
+    "category": "T-Shirts",
+    "rating": 4.6
+  },
+  {
+    "product_id": "P090",
+    "name": "Titan Watch",
+    "price": 27000,
+    "category": "Watches",
+    "rating": 3.9
+  },
+  {
+    "product_id": "P060",
+    "name": "American Tourister Backpack",
+    "price": 4500,
+    "category": "Bags",
+    "rating": 3.1
+  },
+  {
+    "product_id": "P119",
+    "name": "JBL Tune Headphones",
+    "price": 32700,
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "product_id": "P165",
+    "name": "Sonata Watch",
+    "price": 8800,
+    "category": "Watches",
+    "rating": 3.9
+  },
+  {
+    "product_id": "P083",
+    "name": "Apple AirPods Pro",
+    "price": 35900,
+    "category": "Electronics",
+    "rating": 3.6
+  },
+  {
+    "product_id": "P029",
+    "name": "ASICS GEL RUNNER",
+    "price": 12200,
+    "category": "Shoes",
+    "rating": 4.1
+  },
+  {
+    "product_id": "P079",
+    "name": "Fastrack Sunglasses",
+    "price": 15000,
+    "category": "Sunglasses",
+    "rating": 4.7
+  },
+  {
+    "product_id": "P042",
+    "name": "Nike Sports Bag",
+    "price": 7900,
+    "category": "Bags",
+    "rating": 4.7
+  },
+  {
+    "product_id": "P072",
+    "name": "Nike Air Max",
+    "price": 9900,
+    "category": "Shoes",
+    "rating": 4.9
+  },
+  {
+    "product_id": "P172",
+    "name": "  Fastrack Sunglasses  ",
+    "price": 21000,
+    "category": "Sunglasses",
+    "rating": 4.9
+  },
+  {
+    "product_id": "P131",
+    "name": "Nike Air Max",
+    "price": 4100,
+    "category": "Shoes",
+    "rating": 4.3
+  },
+  {
+    "product_id": "P151",
+    "name": "Timex Classic",
+    "price": 5800,
+    "category": "Watches",
+    "rating": 3.9
+  },
+  {
+    "product_id": "P140",
+    "name": "  Pepe Jeans  ",
+    "price": 1800,
+    "category": "Jeans",
+    "rating": 3.8
+  },
+  {
+    "product_id": "P143",
+    "name": "Nike Sports Bag",
+    "price": 6400,
+    "category": "Bags",
+    "rating": 3.2
+  },
+  {
+    "product_id": "P014",
+    "name": "APPLE AIRPODS PRO",
+    "price": 17600,
+    "category": "Electronics",
+    "rating": 3.8
+  },
+  {
+    "product_id": "P127",
+    "name": "Levis 501 Jeans",
+    "price": 6500,
+    "category": "Jeans",
+    "rating": 4.1
+  },
+  {
+    "product_id": "P082",
+    "name": "Skybags Casual Backpack",
+    "price": 9400,
+    "category": "Bags",
+    "rating": 4.3
+  },
+  {
+    "product_id": "P106",
+    "name": "PUMA RUNNING SHOES",
+    "price": 14700,
+    "category": "Shoes",
+    "rating": 4.3
+  },
+  {
+    "product_id": "P171",
+    "name": "Reebok Classic",
+    "price": 2600,
+    "category": "Shoes",
+    "rating": 4.4
+  },
+  {
+    "product_id": "P075",
+    "name": "APPLE AIRPODS PRO",
+    "price": 48800,
+    "category": "Electronics",
+    "rating": 4.6
+  },
+  {
+    "product_id": "P151",
+    "name": "Timex Classic",
+    "price": 5800,
+    "category": "Watches",
+    "rating": 3.9
+  },
+  {
+    "product_id": "P126",
+    "name": "Roadster Casual T-Shirt",
+    "price": 2200,
+    "category": "T-Shirts",
+    "rating": 3.6
+  },
+  {
+    "product_id": "P096",
+    "name": "  Vogue Eyewear  ",
+    "price": 22300,
+    "category": "Sunglasses",
+    "rating": 3.8
+  },
+  {
+    "product_id": "P141",
+    "name": "ROADSTER CASUAL T-SHIRT",
+    "price": 2300,
+    "category": "T-Shirts",
+    "rating": 4.4
+  },
+  {
+    "product_id": "P048",
+    "name": "Nike Sports Bag",
+    "price": 2000,
+    "category": "Bags",
+    "rating": 4.7
+  },
+  {
+    "product_id": "P117",
+    "name": "Adidas Logo Tee",
+    "price": 3500,
+    "category": "T-Shirts",
+    "rating": 3.9
+  },
+  {
+    "product_id": "P032",
+    "name": "Nike Sports T-Shirt",
+    "price": 2800,
+    "category": "T-Shirts",
+    "rating": 3.9
+  },
+  {
+    "product_id": "P068",
+    "name": "AMERICAN TOURISTER BACKPACK",
+    "price": 7000,
+    "category": "Bags",
+    "rating": 3.4
+  },
+  {
+    "product_id": "P004",
+    "name": "Pepe Jeans",
+    "price": 3500,
+    "category": "Jeans",
+    "rating": 4.6
+  },
+  {
+    "product_id": "P135",
+    "name": "Wrangler Slim Jeans",
+    "price": 2300,
+    "category": "Jeans",
+    "rating": 5.0
+  },
+  {
+    "product_id": "P157",
+    "name": "Lee Regular Jeans",
+    "price": 4600,
+    "category": "Jeans",
+    "rating": 4.8
+  },
+  {
+    "product_id": "P160",
+    "name": "American Tourister Backpack",
+    "price": 11600,
+    "category": "Bags",
+    "rating": 3.3
+  },
+  {
+    "product_id": "P171",
+    "name": "Reebok Classic",
+    "price": 2600,
+    "category": "Shoes",
+    "rating": 4.4
+  },
+  {
+    "product_id": "P058",
+    "name": "Asics Gel Runner",
+    "price": 10200,
+    "category": "Shoes",
+    "rating": 3.4
+  },
+  {
+    "product_id": "P037",
+    "name": "Fastrack Sunglasses",
+    "price": 5800,
+    "category": "Sunglasses",
+    "rating": 3.2
+  },
+  {
+    "product_id": "P020",
+    "name": "  Polaroid Sunglasses  ",
+    "price": 10700,
+    "category": "Sunglasses",
+    "rating": 4.2
+  },
+  {
+    "product_id": "P120",
+    "name": "Apple AirPods Pro",
+    "price": 26400,
+    "category": "Electronics",
+    "rating": 3.4
+  },
+  {
+    "product_id": "P030",
+    "name": "Wrangler Slim Jeans",
+    "price": 2800,
+    "category": "Jeans",
+    "rating": 3.5
+  },
+  {
+    "product_id": "P087",
+    "name": "American Tourister Backpack",
+    "price": 11200,
+    "category": "Bags",
+    "rating": 4.9
+  },
+  {
+    "product_id": "P175",
+    "name": "  New Balance 574  ",
+    "price": 10500,
+    "category": "Shoes",
+    "rating": 4.4
+  },
+  {
+    "product_id": "P109",
+    "name": "Samsung Galaxy Buds",
+    "price": 39700,
+    "category": "Electronics",
+    "rating": 4.4
+  },
+  {
+    "product_id": "P066",
+    "name": "Wrangler Slim Jeans",
+    "price": 4400,
+    "category": "Jeans",
+    "rating": 3.0
+  },
+  {
+    "product_id": "P043",
+    "name": "Adidas Ultraboost",
+    "price": 5200,
+    "category": "Shoes",
+    "rating": 4.7
+  },
+  {
+    "product_id": "P070",
+    "name": "Nike Sports T-Shirt",
+    "price": 900,
+    "category": "T-Shirts",
+    "rating": 4.9
+  },
+  {
+    "product_id": "P129",
+    "name": "Nike Sports Bag",
+    "price": 11600,
+    "category": "Bags",
+    "rating": 3.4
+  },
+  {
+    "product_id": "P136",
+    "name": "New Balance 574",
+    "price": 12600,
+    "category": "Shoes",
+    "rating": 4.2
+  },
+  {
+    "product_id": "P170",
+    "name": "Jack & Jones Denim",
+    "price": 5500,
+    "category": "Jeans",
+    "rating": 3.7
+  },
+  {
+    "product_id": "P139",
+    "name": "Skybags Casual Backpack",
+    "price": 2000,
+    "category": "Bags",
+    "rating": 3.3
+  },
+  {
+    "product_id": "P158",
+    "name": "  Ray-Ban Aviator  ",
+    "price": 17100,
+    "category": "Sunglasses",
+    "rating": 4.2
+  },
+  {
+    "product_id": "P052",
+    "name": "Adidas Logo Tee",
+    "price": 2400,
+    "category": "T-Shirts",
+    "rating": 3.9
+  },
+  {
+    "product_id": "P045",
+    "name": "Puma Duffel Bag",
+    "price": 10300,
+    "category": "Bags",
+    "rating": 5.0
+  },
+  {
+    "product_id": "P107",
+    "name": "American Tourister Backpack",
+    "price": 1200,
+    "category": "Bags",
+    "rating": 4.2
+  },
+  {
+    "product_id": "P084",
+    "name": "SKYBAGS CASUAL BACKPACK",
+    "price": 7000,
+    "category": "Bags",
+    "rating": 4.2
+  },
+  {
+    "product_id": "P074",
+    "name": "Polaroid Sunglasses",
+    "price": 24000,
+    "category": "Sunglasses",
+    "rating": 4.2
+  },
+  {
+    "product_id": "P024",
+    "name": "Adidas Logo Tee",
+    "price": 3700,
+    "category": "T-Shirts",
+    "rating": 4.8
+  },
+  {
+    "product_id": "P034",
+    "name": "FOSSIL ANALOG WATCH",
+    "price": 4200,
+    "category": "Watches",
+    "rating": 3.5
+  },
+  {
+    "product_id": "P094",
+    "name": "Samsung Galaxy Buds",
+    "price": 9200,
+    "category": "Electronics",
+    "rating": 3.5
+  },
+  {
+    "product_id": "P149",
+    "name": "Casio G-Shock",
+    "price": 14900,
+    "category": "Watches",
+    "rating": 4.2
+  },
+  {
+    "product_id": "P009",
+    "name": "BOAT WIRELESS EARBUDS",
+    "price": 35300,
+    "category": "Electronics",
+    "rating": 3.5
+  },
+  {
+    "product_id": "P113",
+    "name": "American Tourister Backpack",
+    "price": 1500,
+    "category": "Bags",
+    "rating": 3.7
+  },
+  {
+    "product_id": "P080",
+    "name": "Samsung Galaxy Buds",
+    "price": 32500,
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "product_id": "P011",
+    "name": "Adidas Logo Tee",
+    "price": 2200,
+    "category": "T-Shirts",
+    "rating": 4.4
+  },
+  {
+    "product_id": "P167",
+    "name": "Sony WH-1000XM5",
+    "price": 21100,
+    "category": "Electronics",
+    "rating": 3.5
+  },
+  {
+    "product_id": "P025",
+    "name": "Wildcraft Travel Bag",
+    "price": 3500,
+    "category": "Bags",
+    "rating": 3.3
+  },
+  {
+    "product_id": "P161",
+    "name": "Adidas Logo Tee",
+    "price": 3500,
+    "category": "T-Shirts",
+    "rating": 5.0
+  },
+  {
+    "product_id": "P036",
+    "name": "Fastrack Sunglasses",
+    "price": 23500,
+    "category": "Sunglasses",
+    "rating": 4.1
+  },
+  {
+    "product_id": "P065",
+    "name": "Boat Wireless Earbuds",
+    "price": 33200,
+    "category": "Electronics",
+    "rating": 4.5
+  },
+  {
+    "product_id": "P159",
+    "name": "WRANGLER SLIM JEANS",
+    "price": 4400,
+    "category": "Jeans",
+    "rating": 3.2
+  },
+  {
+    "product_id": "P049",
+    "name": "  New Balance 574  ",
+    "price": 13500,
+    "category": "Shoes",
+    "rating": 3.5
+  },
+  {
+    "product_id": "P163",
+    "name": "Levis 501 Jeans",
+    "price": 4400,
+    "category": "Jeans",
+    "rating": 3.7
+  },
+  {
+    "product_id": "P057",
+    "name": "Nike Sports Bag",
+    "price": 2700,
+    "category": "Bags",
+    "rating": 3.5
+  },
+  {
+    "product_id": "P091",
+    "name": "Timex Classic",
+    "price": 25500,
+    "category": "Watches",
+    "rating": 3.9
+  },
+  {
+    "product_id": "P179",
+    "name": "Polaroid Sunglasses",
+    "price": 5400,
+    "category": "Sunglasses",
+    "rating": 3.2
+  },
+  {
+    "product_id": "P059",
+    "name": "Sony WH-1000XM5",
+    "price": 27300,
+    "category": "Electronics",
+    "rating": 4.0
+  },
+  {
+    "product_id": "P074",
+    "name": "Polaroid Sunglasses",
+    "price": 24000,
+    "category": "Sunglasses",
+    "rating": 4.2
+  },
+  {
+    "product_id": "P128",
+    "name": "Skybags Casual Backpack",
+    "price": 4500,
+    "category": "Bags",
+    "rating": 4.4
+  },
+  {
+    "product_id": "P156",
+    "name": "Titan Watch",
+    "price": 23800,
+    "category": "Watches",
+    "rating": 4.5
+  },
+  {
+    "product_id": "P013",
+    "name": "Oakley Holbrook",
+    "price": 15200,
+    "category": "Sunglasses",
+    "rating": 3.4
+  },
+  {
+    "product_id": "P176",
+    "name": "Sony WH-1000XM5",
+    "price": 6500,
+    "category": "Electronics",
+    "rating": 4.5
+  },
+  {
+    "product_id": "P145",
+    "name": "Wildcraft Travel Bag",
+    "price": 4600,
+    "category": "Bags",
+    "rating": 3.9
+  },
+  {
+    "product_id": "P003",
+    "name": "Nike Air Max",
+    "price": 10200,
+    "category": "Shoes",
+    "rating": 3.1
+  },
+  {
+    "product_id": "P071",
+    "name": "Samsung Galaxy Buds",
+    "price": 44600,
+    "category": "Electronics",
+    "rating": 4.1
+  },
+  {
+    "product_id": "P102",
+    "name": "Casio G-Shock",
+    "price": 2500,
+    "category": "Watches",
+    "rating": 3.2
+  },
+  {
+    "product_id": "P169",
+    "name": "Puma Duffel Bag",
+    "price": 11500,
+    "category": "Bags",
+    "rating": 4.3
+  },
+  {
+    "product_id": "P006",
+    "name": "Wildcraft Travel Bag",
+    "price": 5500,
+    "category": "Bags",
+    "rating": 4.7
+  },
+  {
+    "product_id": "P140",
+    "name": "  Pepe Jeans  ",
+    "price": 1800,
+    "category": "Jeans",
+    "rating": 3.8
+  },
+  {
+    "product_id": "P180",
+    "name": "Puma Duffel Bag",
+    "price": 8400,
+    "category": "Bags",
+    "rating": 3.3
+  },
+  {
+    "product_id": "P076",
+    "name": "NIKE SPORTS T-SHIRT",
+    "price": 2600,
+    "category": "T-Shirts",
+    "rating": 4.2
+  },
+  {
+    "product_id": "P148",
+    "name": "Apple AirPods Pro",
+    "price": 44300,
+    "category": "Electronics",
+    "rating": 4.7
+  },
+  {
+    "product_id": "P092",
+    "name": "Skybags Casual Backpack",
+    "price": 10900,
+    "category": "Bags",
+    "rating": 4.0
+  },
+  {
+    "product_id": "P147",
+    "name": "Ray-Ban Aviator",
+    "price": 19800,
+    "category": "Sunglasses",
+    "rating": 3.6
+  },
+  {
+    "product_id": "P098",
+    "name": "Ray-Ban Aviator",
+    "price": 10900,
+    "category": "Sunglasses",
+    "rating": 4.7
+  },
+  {
+    "product_id": "P061",
+    "name": "Sony WH-1000XM5",
+    "price": 39400,
+    "category": "Electronics",
+    "rating": 3.9
+  },
+  {
+    "product_id": "P028",
+    "name": "Wildcraft Travel Bag",
+    "price": 8200,
+    "category": "Bags",
+    "rating": 4.9
+  },
+  {
+    "product_id": "P124",
+    "name": "Ray-Ban Aviator",
+    "price": 18700,
+    "category": "Sunglasses",
+    "rating": 3.5
+  },
+  {
+    "product_id": "P099",
+    "name": "Puma Duffel Bag",
+    "price": 11200,
+    "category": "Bags",
+    "rating": 4.2
+  },
+  {
+    "product_id": "P051",
+    "name": "Roadster Casual T-Shirt",
+    "price": 2100,
+    "category": "T-Shirts",
+    "rating": 3.4
+  },
+  {
+    "product_id": "P078",
+    "name": "JBL Tune Headphones",
+    "price": 11300,
+    "category": "Electronics",
+    "rating": 3.8
+  }
+]
