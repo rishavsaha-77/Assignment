@@ -4,8 +4,6 @@ use std::fs;
 #[derive(Debug, Deserialize)]
 struct Product {
     product_id: String,
-    name: String,
-    price: u32,
 }
 
 fn main() {
